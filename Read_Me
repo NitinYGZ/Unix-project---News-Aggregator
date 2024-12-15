@@ -1,0 +1,5 @@
+Dependencies:
+curl
+jq
+api
+
